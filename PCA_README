@@ -1,0 +1,1 @@
+Implemented PCA on 4D vectors and reduced the dimension to 2. These are the 2 dimensions along which variance is maximum. Eigen values of the covariance matrix of the zero-mean training set(H) (obtained by subtracting the mean from each vector) is used in dimension reduction.
